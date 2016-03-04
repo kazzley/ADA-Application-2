@@ -6,7 +6,6 @@ Independent and quick thinking team player seeking a role offering increased res
 
 **Skills**
 
-|
 - Intuitive people management skills
 - Scheduling
 - Critical thinking
@@ -15,7 +14,7 @@ Independent and quick thinking team player seeking a role offering increased res
 - Excellent communication skills
 - Highly dependable
 - Fast Learner
- |
+
 - Web content
 - HTML and CSS
 - Adobe Illustrator
@@ -24,8 +23,6 @@ Independent and quick thinking team player seeking a role offering increased res
 - Adobe Dreamweaver
 - Film production and editing
 - Microsoft Office Suite
- |
-| --- | --- |
 
 **Work History**
 
@@ -54,7 +51,7 @@ _Continental Message Solutions_                                                 
 
 **Education**
 
-Bachelor of Science: Media Design                                                                                        **     2013**
+Bachelor of Science: Media Design                                                                                         **2013**
 
 _Franklin University_                                                                                             Columbus, OH
 
