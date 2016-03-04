@@ -1,5 +1,5 @@
 # ADA-Application-2
-Application for ADA Developers Academy 2
+
 **Professional Summary**
 
 Independent and quick thinking team player seeking a role offering increased responsibility and room for growth. Flexible trainer driven to design and develop new training programs and modify existing curricula to meet the needs of participants.
@@ -14,7 +14,6 @@ Independent and quick thinking team player seeking a role offering increased res
 - Excellent communication skills
 - Highly dependable
 - Fast Learner
-
 - Web content
 - HTML and CSS
 - Adobe Illustrator
@@ -53,11 +52,11 @@ _Continental Message Solutions_                                                 
 
 Bachelor of Science: Media Design                                                                                         **2013**
 
-_Franklin University_                                                                                             Columbus, OH
+_Franklin University_                                                                                               | *Columbus, OH* |
 
 Associates of Applied Science: Interactive Multimedia                                                                      **2009**
 
-_Columbus State Community College_                                                                              Columbus, OH
+_Columbus State Community College_                                                                                  | *Columbus, OH* |
 
 **Accomplishments**
 
